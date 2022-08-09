@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{953A88CB-AE96-25C1-9D89-44D4C9BFBA12}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Main/Script/RobotController.cs">
+    <Files>
+      <File FileName="Assets/Main/Script/RobotController.cs" Line="91" Column="17" />
+      <File FileName="Assets/Main/Script/RobotManager.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo-AR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Joystick Pack" expanded="True">
+                <Node name="Examples" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Base" expanded="True" />
+                  <Node name="Joysticks" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Main" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="RobotController.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="RobotArm" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="072f81a7-6307-403c-a34b-cf3f87720c26" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
